@@ -11,7 +11,7 @@ Musisz na każde pytanie mieć coś do powiedzenia. Podczas obrony większość 
 Do każdego pytania przygotuj sobie przynajmniej dwa-trzy zdania, które musisz powiedzieć jeżeli to pytanie padnie. Jak już wypowiesz te zdania, stres trochę zejdzie i łatwiej będzie Ci kontynuować.
 
 * Odpowiadając na pytanie wykorzystaj tablicę. 
-Zapisz na niej najważniejsze elementy odpowiedzi. Jest to ważne, ponieważ pokazuje, że potrafisz posługiwać się nocają matematyczną, umożliwia też odwoływanie się do rzeczy które napisałeś.
+Zapisz na niej najważniejsze elementy odpowiedzi. Jest to ważne, ponieważ pokazuje, że potrafisz posługiwać się notacją matematyczną, umożliwia też odwoływanie się do rzeczy które napisałeś.
 Ale! Twoja odpowiedź nie może być jedynie zapisem twierdzenia na tablicy. Skomentuj to twierdzenie, jeżeli potrafisz przedstaw szkic dowodu, jeżeli znasz przedstaw zastosowania tego twierdzenia.
 
 * Obrona zazwyczaj rozpoczyna się od przedstawienia pracy dyplomowej. 
@@ -23,3 +23,6 @@ Nie uzyskasz tego 30 slajdami z tabelkami czy wykresami, nie da się ich sensown
 Przedstaw najważniejsze wyniki i uzasadnij dlaczego są one wartościowe. Do tego wystarczy jedna tablica lub kilka slajdów.
 Nie bój się, że komisja nie doceni nakładu Twojej pracy, o nim powie najprawdopodobniej Twój promotor. 
 Zatroszcz się o to, by komisja doceniła Twoją umiejętność przedstawiania kluczowych wyników w zwięzły sposób.
+
+* **Zwróć uwagę na recenzję recenzenta, niekiedy zawarte są w niej uwagi, które później poruszane są w trakcie obrony w ramach pytań od recenzenta.**
+
