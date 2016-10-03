@@ -28,3 +28,15 @@ Gdy już wiesz co w pracy jest, co udało się zrobić, co jest głównym wyniki
  
  * Zadbaj o czytelność wykresów! Weź pod uwagę to, że recenzent może czytać wydrukowaną pracę, a więc na wydruku każdy wykres musi być czytelny. Jeżeli używasz bardzo małej wielkości liter lub rozciągniesz plik graficzny to tylko utrudnisz czytanie. Staraj się umieszczać w pracy wykresy w formacie wektorowym, np. pdf, dzięki czemu lepiej będą wyglądały na wydruku.
  
+## Narzędzia - LaTex
+
+ * Odśwież swoją wiedzę przed pisaniem pracy w LateX'u - dobrym startem jest ta pozycja: [Nie za krótkie wprowadzenie do systemu LaTeX](http://zelmanov.ptep-online.com/ctan/lshort_polish.pdf).
+
+* Pamiętaj, że większość błędów związanych z LaTeX'em, które napotkasz została już opisana i rozwiązana przez nie jedną osobę. Pytania z odpowiedziami można znaleźć na [TeX - LaTeX Stack Exchange](http://tex.stackexchange.com/)
+
+* Zwróć uwagę na czytelność tabel. [To](http://tex.stackexchange.com/questions/112343/beautiful-table-samples), [to](https://www.inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf) i [to](https://www.tug.org/pracjourn/2007-1/mori/mori.pdf) pomoże tworzyć schludne i przejrzyste tabele.
+
+## Narzędzia - Rmarkdown
+
+* Jeżeli planujesz w pracy umieśić kody napisane w języku R wraz z wynikami, to możesz rozważyć pisanie pracy w [rmarkdown](http://rmarkdown.rstudio.com/pdf_document_format.html), gdzie używając uniwersalnej składni Markdown'a i wstawek LaTeX'owych jesteś w stanie przygotować pracę dyplomową z automatycznym umieszczaniem, formatowaniem i ewalowaniem kodu napisanego w języku R.
+ 
